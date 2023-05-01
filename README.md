@@ -1,5 +1,5 @@
 # 👋 HI! my name is Taehun Kim
-### 저에 대한 정보를 더 얻고싶다면 [My Notion Link](https://www.notion.so/huni-hun/94c61d57f9c542c78b0e7fbd5ada8d1a)
+### 저에 대한 정보를 더 얻고싶다면 [My Notion Link](https://www.notion.so/huni-hun/94c61d57f9c542c78b0e7fbd5ada8d1a?pvs=4)
 ---
 
 
