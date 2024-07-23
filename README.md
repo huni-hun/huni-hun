@@ -18,3 +18,7 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/QGIS-%230769AD.svg?style=flat-square&logo=qgis&logoColor=white">
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/huni-hun"/>
+</a>
